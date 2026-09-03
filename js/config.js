@@ -1,5 +1,5 @@
 window.SITE = {
-  name: "Cherrybae",
+  name: "Cherry Bae",
   tagline: "Your favorite creator for exclusive content, live shows & more",
   flag: "🇺🇸",
   videos: 228,
