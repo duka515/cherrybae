@@ -5,7 +5,7 @@ window.SITE = {
   videos: 228,
   photos: 445,
   avatar: "assets/avatar.svg",
-  liveUrl: "https://example.com/live",
+  liveUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&amp;aff_sub5=SF_006OG00000NbNlB&amp;aff_sub=TTT",
   liveImage: "assets/popup-live.svg",
   premiumUrl: "https://example.com/premium",
   premiumImage: "assets/popup-premium.svg",
